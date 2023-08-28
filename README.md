@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vietk61uet
 - 👀 I’m learning C/C++, Java, Python
-- 🌱 I’m currently a software engineer of TDT Asia
-- 💞️ I’m looking to collaborate on fintech, finance technology
+- 🌱 I’m currently a software engineer of CMC Global
+- 💞️ I’m looking to collaborate on tech
 - 📫 You can contact me via gmail phanquocviet2209@gmail.com
 
 <!---
