@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vietk61uet
 - 👀 I’m learning C/C++, Java, Python
-- 🌱 I’m currently a software engineer of CMC Global
+- 🌱 I’m currently a software engineer
 - 💞️ I’m looking to collaborate on tech
 - 📫 You can contact me via gmail phanquocviet2209@gmail.com
 
